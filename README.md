@@ -1,0 +1,2 @@
+# mapty
+# mapty-app
